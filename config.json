@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncpdate",
+        "uuid": 2591030,
+        "checksum": "pyrli9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
